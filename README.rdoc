@@ -2,7 +2,8 @@
 
 Add the following to your Gemfile
 
-  gem "ruby-pardot"
+sudo gem install ruby-pardot
+ // gem "ruby-pardot"
 
 == Usage
 
